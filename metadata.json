@@ -1,0 +1,6 @@
+{
+  "name": "Display Waktu Solat Malaysia",
+  "description": "Aplikasi paparan digital skrin penuh untuk waktu solat rasmi Malaysia, tarikh Masihi/Hijri, cuaca, peristiwa Islam & sejarah Malaysia, serta penstriman langsung.",
+  "requestFramePermissions": ["geolocation", "camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
